@@ -1,6 +1,13 @@
-This is the base repository to start with the coursework. Please notice that:
+# Terminal Chess Game
 
-- The instructions and manual can be found in [Blackboard under Assessment](https://online.manchester.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_12837701_1&course_id=_67979_1).
-- The submission deadline is on March 11 at 6PM (Friday of week 5).
-- This is formative assessment so it's not going to be marked.
-- Use the [coursework forum to ask any question](https://online.manchester.ac.uk/webapps/discussionboard/do/forum?action=list_threads&course_id=_67979_1&nav=discussion_board&conf_id=_396488_1&forum_id=_564463_1). Make sure you have carefully read the manual before that.
+## Description:
+This is a terminal chess game developed in Java.
+<br> Some predefined test cases have been released with the game.
+
+## Instructions:
+- To run the game: ./run.sh
+- To run logic and programming tests: ./run-tests.sh
+
+## Recommendations:
+- Java version "17.0.1" 2021-10-19 LTS
+- Java(TM) SE Runtime Environment (build 17.0.1+12-LTS-39)
